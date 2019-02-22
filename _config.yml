@@ -58,6 +58,7 @@ author:
 repository: user_name/repo_name
 repository_tree: master
 
+theme: jekyll-text-theme
 
 ## => Paths
 ##############################
@@ -218,7 +219,7 @@ defaults:
 
 ## => Plugins
 ##############################
-plugins:
+plugins_dir:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
