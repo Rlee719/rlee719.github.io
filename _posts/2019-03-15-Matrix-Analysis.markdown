@@ -19,15 +19,15 @@ mathjax: true
 
 ### Definition
 
-**Nontrivial Subspace**: Subspace except $\{0\}$, $V$.  
+**Nontrivial Subspace**: Subspace except $\\{0\\}$, $V$.  
 **Proper Subspace**: Subspace except $V$.  
    
 ### Generating Subspace
 
 **Def**:   
-&ensp;&ensp;&ensp;&ensp;The intersection of all subspace of $V$ that contain $S$ is the generating subspace of $V$, denoted as $spanS$. The generating subspace of null vector set $span\{\}={0}$.  
+&ensp;&ensp;&ensp;&ensp;The intersection of all subspace of $V$ that contain $S$ is the generating subspace of $V$, denoted as $spanS$. The generating subspace of null vector set $span\\{\\}={0}$.  
 **Prop**:
-&ensp;&ensp;&ensp;&ensp;$spanS$ equals to all linear conbinatnion of vectors in $S$.  
+&ensp;&ensp;&ensp;&ensp;$spanS$ equals to all linear combination of vectors in $S$.  
 
 
 
