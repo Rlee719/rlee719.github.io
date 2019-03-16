@@ -191,7 +191,7 @@ If equation $A x = b$ is solvable, then it is consistent.
 $A x = b$ is consistent only when:  
 
 $$
-rank \lbrack ${A}\quad b \rbrack = rank A
+rank \lbrack {A}\quad b \rbrack = rank A
 $$
 while $\lbrack A\quad b \rbrack$ refers to augmented matrix.  
 

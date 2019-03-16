@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32d399c2-f9e8-4992-bce5-25530cdbb487" name="Default Changelist" comment="" />
+    <list default="true" id="32d399c2-f9e8-4992-bce5-25530cdbb487" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_posts/2019-03-15-Matrix-Analysis.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-03-15-Matrix-Analysis.markdown" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,8 +16,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-03-15-Matrix-Analysis.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="-1381">
-                <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+              <first_editor relative-caret-position="441">
+                <caret line="193" column="13" lean-forward="true" selection-start-line="193" selection-start-column="13" selection-end-line="193" selection-end-column="13" />
               </first_editor>
               <second_editor />
             </state>
@@ -63,8 +65,8 @@
         <option value="$PROJECT_DIR$/_layouts/base.html" />
         <option value="$PROJECT_DIR$/_posts/2019-03-15-Matrix-Analysis" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/_posts/2019-03-15-Matrix-Analysis.markdown" />
         <option value="$PROJECT_DIR$/_posts/2019-03-15-Matrix-Analysis_.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2019-03-15-Matrix-Analysis.markdown" />
       </list>
     </option>
   </component>
@@ -133,6 +135,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="69" y="25" width="1851" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17943107" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -216,8 +219,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-03-15-Matrix-Analysis.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="-1381">
-            <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+          <first_editor relative-caret-position="441">
+            <caret line="193" column="13" lean-forward="true" selection-start-line="193" selection-start-column="13" selection-end-line="193" selection-end-column="13" />
           </first_editor>
           <second_editor />
         </state>
