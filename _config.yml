@@ -72,6 +72,7 @@ paths:
 ## => Post
 ##############################
 ## excerpt
+excerpt_type: text
 excerpt_separator: <!--more-->
 
 ## license
@@ -86,7 +87,7 @@ toc:
 ##############################
 ## Mathjax
 mathjax: true  # false (default), true
-mathjax_autoNumber: true # false (default), true
+mathjax_autoNumber: false # false (default), true
 
 ## Mermaid
 mermaid: true # false (default), true
@@ -148,7 +149,7 @@ comments:
 ## => Pageview
 ##############################
 pageview:
-  provider: false # false (default), "leancloud", "custom"
+  provider: # false (default), "leancloud", "custom"
 
   ## Leancloud
   leancloud:
